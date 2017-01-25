@@ -1,0 +1,24 @@
+{
+  "env": {
+    "node": true,
+    "es6": true,
+    "mocha": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
+  "rules": {
+    "eqeqeq": "error",
+    "complexity": [
+      "error",
+      5
+    ],
+    "no-extra-semi": "error",
+    "no-trailing-spaces": "error",
+    "prefer-const": [
+      "error"
+    ],
+    "semi": "error"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "fizz_buzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "_mocha",
+    "coverage": "istanbul cover _mocha",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.14.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0"
+  }
+}
