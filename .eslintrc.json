@@ -16,6 +16,7 @@
     ],
     "no-extra-semi": "error",
     "no-trailing-spaces": "error",
+    "no-var": "error",
     "prefer-const": [
       "error"
     ],
